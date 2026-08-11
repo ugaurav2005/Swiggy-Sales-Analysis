@@ -154,7 +154,7 @@ swiggy-fabric-analytics/
 
 ## 📈 10. Power BI Dashboard
 
-[Clickable Text](https://app.fabric.microsoft.com/groups/4a139114-0d80-4761-9e52-16e8c93201b3/reports/8185df62-aa77-4b7f-8ea9-69b7736a05e1/a80780ae693e69710345?redirectedFromSignup=1&experience=power-bi)
+[Power BI service Dashboard](https://app.fabric.microsoft.com/groups/4a139114-0d80-4761-9e52-16e8c93201b3/reports/8185df62-aa77-4b7f-8ea9-69b7736a05e1/a80780ae693e69710345?redirectedFromSignup=1&experience=power-bi)
 <img width="1781" height="832" alt="image" src="https://github.com/user-attachments/assets/b1a6b38b-2b3f-4870-b2e9-a45b16e2c059" />
 
 
@@ -170,7 +170,10 @@ The same full Swiggy dataset (fact + all dimension tables) was analyzed independ
 - **Pivot Charts** to visualize key trends (e.g. orders by city, top-rated dishes, monthly order trends)
 - **Interactive Dashboard** using **slicers** (date, city, restaurant, dish category) for dynamic, self-service filtering
 
-📁 File: `excel/swiggy_excel_dashboard.xlsx`
+<img width="49%" height="953" alt="Screenshot 2026-08-11 220900" src="https://github.com/user-attachments/assets/cd7368c2-4779-414c-a7d5-1500d9ee84f8" />
+<img width="49%" height="707" alt="Screenshot 2026-08-11 220925" src="https://github.com/user-attachments/assets/ef0aed7e-b857-4084-ab7c-5e3116747393" />
+
+
 
 ---
 
